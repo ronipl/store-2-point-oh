@@ -5,11 +5,6 @@
       "settings": {
       }
     },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-      }
-    },
     "162555244073ae3538": {
       "type": "multicolumn",
       "blocks": {
@@ -53,11 +48,16 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "form",
-    "162555244073ae3538"
+    "162555244073ae3538",
+    "form"
   ]
 }
