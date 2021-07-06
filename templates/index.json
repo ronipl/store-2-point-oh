@@ -26,6 +26,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/person-holding-their-hands-in-jean-pockets.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
@@ -75,6 +76,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/metal-clothing-rack-with-warm-colored-clothing.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
