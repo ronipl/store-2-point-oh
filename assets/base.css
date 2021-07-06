@@ -2072,7 +2072,3 @@ details-disclosure > details {
     transform: translateY(0);
   }
 }
-
-body {
-  display: none;
-}
