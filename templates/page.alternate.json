@@ -42,6 +42,12 @@
         "full_width": true
       }
     },
+    "16257325518790def6": {
+      "type": "test-section",
+      "settings": {
+        "text": "add new test section"
+      }
+    },
     "1625728090b25973a6": {
       "type": "multicolumn",
       "blocks": {
@@ -95,6 +101,7 @@
   "order": [
     "main",
     "162573014599ec11be",
+    "16257325518790def6",
     "1625728090b25973a6"
   ]
 }
