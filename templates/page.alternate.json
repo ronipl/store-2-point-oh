@@ -1,12 +1,63 @@
 {
-  "name": "Alternate Page Template",
   "wrapper": "div#div_id.div_class[attribute-one=value]",
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1625728090b25973a6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1625728090b25973a6-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1625728090b25973a6-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1625728090b25973a6-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "f1ab97e5-4163-4eef-9b7e-85420e6e1c74": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1625728090b25973a6-0",
+        "1625728090b25973a6-1",
+        "1625728090b25973a6-2",
+        "f1ab97e5-4163-4eef-9b7e-85420e6e1c74"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1625728090b25973a6"
   ]
 }
